@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Boooossssssss Man"
+sleep 2
+echo "Coding together is fun"
+sleep 3
+echo "Bye byeeeeeeeeeeeeeeeeeeeeeeeeeeee!!!"
+
